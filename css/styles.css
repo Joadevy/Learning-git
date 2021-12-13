@@ -20,6 +20,9 @@ body {
     font-weight: bold;
     margin: 0;
     padding: .5em;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
 }
 
 .cabecera #tagline {
