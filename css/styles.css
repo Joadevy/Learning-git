@@ -4,6 +4,7 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
 .container {
@@ -11,6 +12,7 @@ body {
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: #ffff;
 }
 
 .cabecera {
