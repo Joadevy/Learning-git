@@ -6,4 +6,9 @@ experimento 1
 experimento 2
 pequeño cambio para testear git rebase
 commit antes de rebase
+<<<<<<< HEAD
+=======
+cambio para testing de cherry-pic
+mas texto testing cherry-pick
+>>>>>>> 8d11a99... Añadido mas texto a cherry-pick mejora
 Saludos!
